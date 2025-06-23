@@ -3,15 +3,14 @@
 /* Variáveis */
 :root {
     --primary-color: #026773;
-    --secondary-color: #b7c820;
-    --text-color: #F2E3D5;
+    --secondary-color: #fb0021;
+    --text-color: #000000;
     --background-color: #204A4F;
     --button-hover: #012E40;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
-}
-
-/* Reset */
+}                                                                                                                  
+/* Reset
 * {
     margin: 0;
     padding: 0;
